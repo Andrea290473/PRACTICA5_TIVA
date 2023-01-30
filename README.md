@@ -1,1 +1,2 @@
+Está práctica desarrolla el programa correspondiente a la generación de la señal PWM en el experimento 1, y en el exerimento 2, mediante 3 potenciometros se modifica el ancho de pulso, por lo que se ve modificado el ciclo de 3 servomotres sg90, adicionalmente se agrega un vídeo de su funucionamiento, así como un reporte que explica la metodología utilizada.
 La versión final se encuentra en la rama "activity-bar"
